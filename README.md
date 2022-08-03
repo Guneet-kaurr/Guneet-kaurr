@@ -1,6 +1,6 @@
 ## Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Guneet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guneet-kaur-480713236/-)(https://www.linkedin.com/in/guneet-kaur-480713236/)
+[![Linkedin Badge](https://img.shields.io/badge/-Guneet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guneet-kaur-480713236/-)](https://www.linkedin.com/in/guneet-kaur-480713236/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Guneet-yellow)](https://stackoverflow.com/users/19615300/guneet-kaurr)
 
